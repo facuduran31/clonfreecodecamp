@@ -1,0 +1,33 @@
+.contenedor-testimonio
+{
+    display: flex;
+    box-shadow: 5px 5px 5px lightgray;
+    margin: 50px 20%;
+    background-color: #f5f6f7;
+}
+
+.imagen-testimonio
+{
+    width: 256px;
+}
+
+.contenedor-texto-testimonio
+{
+    margin: auto;    
+}
+
+.nombre-testimonio{
+    text-align: center;
+    margin: 10px;
+}
+
+.cargo-testimonio
+{
+    margin: 0 10px;
+    text-align: center;
+}
+
+.texto-testimonio
+{
+    margin: 25px;
+}
