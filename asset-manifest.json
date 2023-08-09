@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/clonfreecodecamp/static/css/main.eadaed6d.css",
+    "main.js": "/clonfreecodecamp/static/js/main.4851fddf.js",
+    "static/js/787.438889c7.chunk.js": "/clonfreecodecamp/static/js/787.438889c7.chunk.js",
+    "static/media/Emma.png": "/clonfreecodecamp/static/media/Emma.add10415a5668325d2f2.png",
+    "static/media/Sarah.png": "/clonfreecodecamp/static/media/Sarah.2c504d1ebaf1961e4a40.png",
+    "static/media/Shawn.png": "/clonfreecodecamp/static/media/Shawn.0d373888087fb18fc145.png",
+    "index.html": "/clonfreecodecamp/index.html",
+    "main.eadaed6d.css.map": "/clonfreecodecamp/static/css/main.eadaed6d.css.map",
+    "main.4851fddf.js.map": "/clonfreecodecamp/static/js/main.4851fddf.js.map",
+    "787.438889c7.chunk.js.map": "/clonfreecodecamp/static/js/787.438889c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eadaed6d.css",
+    "static/js/main.4851fddf.js"
+  ]
+}
